@@ -1,0 +1,8 @@
+/linuxenv/
+/env/
+/.venv/
+/.env
+/docker-compose.yml
+/Dockerfile
+/requirements.txt
+/tokens_chaostime84.json
