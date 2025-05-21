@@ -1,8 +1,14 @@
+/__pycache__/
 /linuxenv/
 /env/
+/.idea/
+/.git/
 /.venv/
 /.env
 /docker-compose.yml
 /Dockerfile
 /requirements.txt
 /tokens_chaostime84.json
+/auth-server/env/
+/callback-server/.idea/
+/callback-server/env/
