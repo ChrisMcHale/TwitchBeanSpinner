@@ -1,0 +1,20 @@
+{
+  "state": "VVqlgr_Hc13PcaE8fChRvA",
+  "user": {
+    "id": "38441512",
+    "login": "chaostime84",
+    "display_name": "ChaosTime84"
+  },
+  "tokens": {
+    "access_token": "l6ksram75sb6ede5l981elj79a5zzu",
+    "expires_in": 13959,
+    "refresh_token": "onvww9yjq21vv6k1dn5z0mql8o9h5mjue8kby3iobbj4zcnbfm",
+    "scope": [
+      "bits:read",
+      "chat:read",
+      "moderator:read:chatters",
+      "moderator:read:moderators"
+    ],
+    "token_type": "bearer"
+  }
+}
